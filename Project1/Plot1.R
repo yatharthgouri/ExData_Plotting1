@@ -1,5 +1,5 @@
 # Set the Working Directory
-setwd("~//ExData_Plotting1")
+setwd("~/GitHub/ExData_Plotting1")
 
 source("Load_data.R")
 png(filename = "Plot1.png", width = 480, height = 480, units = "px")
